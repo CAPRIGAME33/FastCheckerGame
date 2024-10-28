@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/FastCheckerGame.git/static/css/main.56bbdb96.css",
-    "main.js": "/FastCheckerGame.git/static/js/main.d9ba1e08.js",
-    "index.html": "/FastCheckerGame.git/index.html",
-    "main.56bbdb96.css.map": "/FastCheckerGame.git/static/css/main.56bbdb96.css.map",
-    "main.d9ba1e08.js.map": "/FastCheckerGame.git/static/js/main.d9ba1e08.js.map"
+    "main.css": "/FastCheckerGame/static/css/main.56bbdb96.css",
+    "main.js": "/FastCheckerGame/static/js/main.d9ba1e08.js",
+    "index.html": "/FastCheckerGame/index.html",
+    "main.56bbdb96.css.map": "/FastCheckerGame/static/css/main.56bbdb96.css.map",
+    "main.d9ba1e08.js.map": "/FastCheckerGame/static/js/main.d9ba1e08.js.map"
   },
   "entrypoints": [
     "static/css/main.56bbdb96.css",
